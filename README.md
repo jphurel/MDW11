@@ -4,5 +4,5 @@ A window showing icons appears when the mouse comes near the left-top of the scr
 You can add shortcuts by copy-paste and drag-drop.<BR>
 A popup menu allows management of shortcuts and display.<BR>
 MDW11 self installs and uninstalls.<BR>
-Delphi 10.4 app
+Delphi 10.4 app.<BR>
 ![mdw11](https://user-images.githubusercontent.com/101517770/158070071-dda9c5bd-0cdd-4d05-a9e5-264054f15d1a.png)
