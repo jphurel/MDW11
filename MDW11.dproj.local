@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/12 14:44:11.000.275,=C:\DEV\DEL10\UTIL\MDW11\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 14:45:49.000.345,C:\DEV\DEL10\UTIL\MDW11\UMDW11PRMS.pas=C:\DEV\DEL10\UTIL\MDW11\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 14:45:49.000.345,C:\DEV\DEL10\UTIL\MDW11\UMDW11PRMS.dfm=C:\DEV\DEL10\UTIL\MDW11\Unit1.dfm</Transaction>
+    <Transaction>2022/02/12 22:30:43.000.152,=C:\DEV\DEL10\UTIL\MDW11\Unit1.pas</Transaction>
+    <Transaction>2022/02/12 22:31:05.000.133,C:\DEV\DEL10\UTIL\MDW11\UEdRacc.dfm=C:\DEV\DEL10\UTIL\MDW11\Unit1.dfm</Transaction>
+    <Transaction>2022/02/12 22:31:05.000.133,C:\DEV\DEL10\UTIL\MDW11\UEdRacc.pas=C:\DEV\DEL10\UTIL\MDW11\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
